@@ -1,0 +1,4 @@
+rootProject.name = 'SensorsMonitorsApp'
+include 'domain'
+include 'dao'
+include 'webapp'
