@@ -1,4 +1,4 @@
-package com.prokopovich;
+package com.prokopovich.smapp.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
